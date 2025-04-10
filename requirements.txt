@@ -1,0 +1,6 @@
+langchain
+openai
+qdrant-client
+tqdm
+python-dotenv
+requests
